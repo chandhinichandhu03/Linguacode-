@@ -206,3 +206,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Built with ❤️ and Gemini AI
+
+git config --global user.name "Chandhini"
+git config --global user.gmail “chandhinichandhu03@gmail.com”
